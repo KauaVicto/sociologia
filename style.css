@@ -170,6 +170,7 @@ p {
   line-height: 1.5;
   color: var(--dark-3);
   margin: 0px;
+  text-indent: 30px;
 }
 
 .text-small {
